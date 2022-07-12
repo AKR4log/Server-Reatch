@@ -1,5 +1,5 @@
 
-const  dateCountdown  = require("date-countdown");
+const  dateCountdown  = require("../../date");
 
 class DianaController {
 
